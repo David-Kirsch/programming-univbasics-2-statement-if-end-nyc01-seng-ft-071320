@@ -1,2 +1,2 @@
 # Write your solution here
-puts Time.now
+puts Time.now.select_second
